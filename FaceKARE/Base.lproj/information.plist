@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>6 Ways to Improve the Look of Under-Eye Circles</string>
+		<key>content</key>
+		<string>informationB1</string>
+		<key>image</key>
+		<string>informationImageB01.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>8 Things Women With Super-Soft Skin Always Do</string>
+		<key>content</key>
+		<string>informationB2</string>
+		<key>image</key>
+		<string>informationImageB02.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Coffee Really Does to Your Skin</string>
+		<key>content</key>
+		<string>informationB3</string>
+		<key>image</key>
+		<string>informationImageB03.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>What Swimming in Your Makeup Does to Your Skin</string>
+		<key>content</key>
+		<string>informationB4</string>
+		<key>image</key>
+		<string>informationImageB04.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Why Mineral Sunscreen is better than Chemical Versions?</string>
+		<key>content</key>
+		<string>informationB5</string>
+		<key>image</key>
+		<string>informationImageB05.png</string>
+	</dict>
+</array>
+</plist>

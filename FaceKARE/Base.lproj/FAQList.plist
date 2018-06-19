@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>What facial problems FaceKARE can help ? </string>
+		<key>answer</key>
+		<string>FaceKARE can effectively help in fine lines, wrinkles, aged skin, jowls, eyelids, and double chins. Meanwhile,it can improve muscle texture tone and firming in face and neck.</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>What is the treatment timeline ?</string>
+		<key>answer</key>
+		<string>FaceKARE is the micro current to stimulate the skin dermis to the subcutaneous muscle layer, Due to repair cells need time to accumulate, so the longer the better, generally it will be significantly improved after a week.</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Can FaceKARE work with skin care products ?</string>
+		<key>answer</key>
+		<string>Sure! While you use the FaceKARE, you can use other skin care, such as essence etc.</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>What’s the adverse reactions ?</string>
+		<key>answer</key>
+		<string>Due to a drastic change in muscle tissues, which leads to a sudden removal of waste products (detoxification), some people may (rarely) experience certain adverse reaction such as nausea, fatigue, drowsiness, and a temporary flu-like feeling. Those feelings generally show up after first couple treatments and last a few hours to 24 hours. If those reactions last after couple treatments, stop the treatment and consult with your physician.</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>General Warnings</string>
+		<key>answer</key>
+		<string>1. Consult your doctor before using FaceKARE if you have following conditions:
+•  Using a cardiac pacemaker, or an implanted metallic device.
+•  Infectious disease or in fever.
+•  Epilepsy, Melanoma, Varicose veins.
+•  Wound or inflammation on face
+•  Pregnant women and children under 4.
+
+2. Due to various skin impedance and sensory threshold individually, some people may experience some tingling during the treatments and others may not.  Overall, it does not affect the effect of care .
+
+3. Very few people may be allergic to the mask; if you have  facial redness, itching and other allergic conditions, stop the treatment immediately .</string>
+	</dict>
+</array>
+</plist>

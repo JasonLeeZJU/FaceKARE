@@ -1,0 +1,208 @@
+/* 
+  Localizable.strings
+  FaceKARE
+
+  Created by Anan on 2017/4/25.
+  Copyright © 2017年 Anan. All rights reserved.
+*/
+
+/*
+ 整体 begin
+ */
+
+// tabbar
+"tabbarHome" = "主页";
+"tabbarInformation" = "美容资讯";
+"tabbarPictures" = "美丽一刻";
+"tabbarSetting" = "设置";
+
+"disableConnectTip" = "无法连接设备";
+"disableConnectTip1" = "1. 请打开设备。";
+"disableConnectTip2" = "2. 请将设备靠近手机。";
+
+"chartGreenTip" = "治疗处在高效状态";
+"chartYellowTip" = "治疗处在低效状态 ";
+"chartRedTip" = "治疗无效";
+
+/*
+ 整体 end
+ */
+
+/*
+ HOME 页面 begin
+ */
+
+//
+//"beautyStateLabel" = "设备状态";
+"beautyStateLabel" = "美容状态";
+"homeChartLineYX" = "生物电流／美容进度（分钟）";
+"homeChartLineYX2" = "生物电流／美容进度";
+"homeMinite" = "分钟";
+"homeChartLineY" = "生物电流";
+"homeChartLineX" = "美容进度（分钟）";
+//"HomeGainButton" = "获取美容状态";
+"HomeGainButton" = "连接";  //暂定
+"reduceLabel" = "减弱";
+"increaseLabel" = "增强";
+"intensityLabel" = "美容强度";
+"dragLeftLabel" = "胶原蛋白";
+
+"homeMessage1" = "仅在美容仪运行时有效";
+"homeMessage2" = "已达到最小值";
+"homeMessage3" = "已达到最大值";
+
+"banner1" = "公司介绍";
+"banner2" = "技术特点和比较";
+"banner3" = "产品介绍";
+"banner4" = "产品应用领域";
+"banner5" = "淡斑奇迹";
+"banner6" = "该死的眼袋";
+
+"bannerFirst" = "胶原蛋白";
+//"bannerFirstNavigationTitle" = "胶原蛋白";
+"bannerFirstNavigationTitle" = "美容状态";  // 暂定
+"bannerChartLineY" = "胶原蛋白合成量";
+"bannercollagenTopTip" = "微电流刺激的每一分钟都产生满满的胶原蛋白";
+//"bannerCollagenTip" = "单位时间内的胶原蛋白合成量：只要曲线在 “0” 以上，就表明肌肤在产生胶原蛋白，曲线越高，产生的胶原蛋白越多。";
+"bannerCollagenTip" = "数值越高单位时间内产生的胶原蛋白越多";   //暂定
+
+"homePrompt" = "提示";
+"homePromptDetail1" = "美容结束";
+"homePromptDetail2" = "请检查面膜是否松开";
+"homePromptDetail3" = "美容仪低电量";
+"homeConfirm" = "确定";
+
+"honeConnectLabel1" = "已连接";
+"honeConnectLabel2" = "未连接";
+"honeModelLabel0" = "• • •";
+"honeModelLabel1" = "祛眼袋";
+"honeModelLabel2" = "淡斑";
+"honeModelLabel3" = "紧肤";
+
+"bannerFirstChangeIntensityLabel" = "调整电流强度";  //暂定
+"bannerFirstChangeModelLabel" = "调整模式";  //暂定
+
+// 连接页面
+"connectNavigationTitle" = "连接设备";
+"HomeConnectButton" = "连接";
+
+"connectPrompt" = "提示";
+"connectPromptDetail1" = "是否连接红灯闪烁的设备";
+"connectPromptDetail2" = "没有找到更多设备";
+"connectPromptDetail3" = "找不到设备";
+"connectPromptDetail4" = "无法连接到指定设备";
+"connectNext" = "重新搜索";
+"connectConfirm" = "确定";
+
+"connectConnectPrompt" = "连接成功";
+
+"connectGreenLabel" = "祛眼袋";
+"connectYellowLabel" = "淡斑";
+"connectBlueLabel" = "紧肤";
+
+"connectPromptDetail5" = "请靠近连接的设备";
+"connectPromptDetail6" = "请勿选择相同模式";
+
+/*
+ HOME 页面 end
+ */
+
+/*
+ INFORMATION 页面 begin
+ */
+
+"informationViewNavigationTitle" = "美容资讯";
+
+/*
+ INFORMATION 页面 end
+ */
+
+/*
+ PICTURES 页面 begin
+ */
+
+"picturesViewNavigationTitle" = "美丽一刻";
+"picturesEditorButton" = "编辑";
+"picturesCancelButton" = "取消";
+"takePicturesButton" = "拍照";
+"takePicturesSelect1" = "我刚做完祛眼袋";
+"takePicturesSelect2" = "我刚做完淡斑";
+"takePicturesSelect3" = "我刚做完紧肤";
+"takePicturesCancel" = "取消";
+"takePicturesSection1" = "- 祛眼袋 -";
+"takePicturesSection2" = "- 淡斑 -";
+"takePicturesSection3" = "- 紧肤 -";
+"takePicturesModel1" = "祛眼袋";
+"takePicturesModel2" = "淡斑";
+"takePicturesModel3" = "紧肤";
+"takePicturesCompareButton" = "对比";
+"takePicturesDeleteButton" = "删除";
+
+/*
+ PICTURES 页面 end
+ */
+
+/*
+ SETTING 页面 begin
+ */
+
+//
+"settingViewNavigationTitle" = "设置";
+
+//
+"VersionViewNavigationTitle" = "版本信息";
+"update" = "检测更新";
+"version" = "版本 ";
+"DeviceInformation" = "设备信息";
+"DeviceId" = "产品号";
+"firmware" = "固件版本";
+
+"updatePrompt" = "提示";
+"updateTip" = "是否更新软件至最新版本";
+"updateYes" = "确认更新";
+"updateNo" = "取消";
+
+"noNeedUpdateTip" = "已是最新版本";
+"noNeedUpdateYes" = "确定";
+
+//
+"FAQListViewNavigationTitle" = "常见问题";
+
+"FAQLabel11" = "功能模式";
+"FAQLabel12" = "黄灯";
+"FAQLabel13" = "蓝灯";
+"FAQLabel14" = "绿灯";
+"FAQLabel21" = "功效";
+"FAQLabel22" = "祛斑淡斑，祛痘印";
+"FAQLabel23" = "紧致肌肤";
+"FAQLabel24" = "祛眼袋，抚平细纹";
+"FAQLabel31" = "推荐疗程";
+"FAQLabel32" = "每天45分钟/次，持续28天，后续每周使用一次";
+"FAQLabel33" = "每天43分钟/次，持续15天，后续每周使用一次";
+"FAQLabel34" = "每天42分钟/次，持续7天，后续每周使用一次";
+"FAQLabel41" = "见效周期";
+"FAQLabel42" = "7天后有改善，20天后效果显著";
+"FAQLabel43" = "4天后有改善，12天后效果显著";
+"FAQLabel44" = "3天后有改善，7天后效果显著";
+
+//
+"replaceViewNavigationTitle" = "连接其他美容仪";
+"replaceTipLabel1" = "1. 请打开设备。";
+"replaceTipLabel2" = "2. 将设备靠近手机。";
+"replaceButton" = "连接";
+
+//
+"contactUsViewNavigationTitle" = "联系我们";
+"focusOnUsNavigationTitle" = "关注我们";
+"companyAddressNavigationTitle" = "公司地址";
+"companyAddress" = "公司地址：";
+"companyAddressDetail" = "浙江省杭州市西湖区三墩镇西湖科技园金蓬街368号同硕科技园";
+"isCopy" = "是否复制公司地址";
+"copyCancel" = "取消";
+"copyConfirm" = "确认";
+"contactTipLabel" = "如果您有任何问题或建议，请联系我们，期待您的回复。";
+"weChatTipLabel" = "长按图片保存二维码";
+
+/*
+ SETTING 页面 end
+ */

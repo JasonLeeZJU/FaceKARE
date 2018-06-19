@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>FaceKARE智能美容仪的适用范围？</string>
+		<key>answer</key>
+		<string>✓ 皮肤松弛无弹性
+✓ 眼袋黑眼圈
+✓ 皱纹鱼尾纹
+✓ 色斑褐斑
+✓ 皮肤暗黄无华
+✓ 皮肤干燥毛孔粗大</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>使用多久会有效果？</string>
+		<key>answer</key>
+		<string>        FaceKARE是通过微电流刺激皮肤真皮层直达皮下肌肉层，500%提高ATP合成，48%提高蛋白质产生以及38%加速血液循环，促进衰老和受损组织的自我修复，细胞修复需要时间积累，所以使用时间越长效果越好，一般连续使用一周后会有明显改善。</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>FaceKARE可搭配护肤品使用吗？</string>
+		<key>answer</key>
+		<string>        可以。在使用FaceKARE进行皮肤护理时，可以搭配使用其它护肤品，如原液、精华素等，这样可以促进营养液的吸收。切记不要使用含油脂的产品，否则会降低效果。</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>使用FaceKARE中会有不良反应吗？</string>
+		<key>answer</key>
+		<string>        不会。FaceKARE采用的是MENS技术，微电流是类似于人体生物电，所以在使用该产品时，绝大部分人不会有任何感觉，也不会有任何副作用。极少部分人对电流的感知阈值低，使用FaceKARE过程中可能会有微刺感。</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>使用 FaceKARE 有哪些注意事项？</string>
+		<key>answer</key>
+		<string>1. 以下人群不适合使用该产品
+•  带有心脏起搏器者
+•  有传染病或发烧者
+•  肿瘤、癫痫、静脉炎、血栓等不健康人群
+•  脸部有创伤或炎症者
+•  孕妇及4岁以下儿童
+
+2. 由于个人皮肤阻抗及感受能力的差异，部分人在使用该产品的过程中会有轻微的刺痛感，有些人可能不会有任何感觉，但这并不影响护肤效果。
+
+3. 不良反应：由于个人肤质原因，极少部分人可能会对该面膜过敏；若使用该产品后脸部出现红肿、干痒等过敏情况，请立即停止使用！</string>
+	</dict>
+</array>
+</plist>

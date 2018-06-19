@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>当肌肤有了这些现象，说明你需要开始抗衰保养了</string>
+		<key>content</key>
+		<string>information1</string>
+		<key>image</key>
+		<string>informationImage01.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>改善眼部肌肤顽疾，到底该怎么办？</string>
+		<key>content</key>
+		<string>information2</string>
+		<key>image</key>
+		<string>informationImage02.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>肌肤状态反复无常？都是生理期在作怪！</string>
+		<key>content</key>
+		<string>information3</string>
+		<key>image</key>
+		<string>informationImage03.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>即使你天天敷面膜 也不知道面膜的这些秘密</string>
+		<key>content</key>
+		<string>information4</string>
+		<key>image</key>
+		<string>informationImage04.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>你可能一直都在犯的6个美容错误</string>
+		<key>content</key>
+		<string>information5</string>
+		<key>image</key>
+		<string>informationImage05.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>试试用这些方法淡化不同类型的黑眼圈</string>
+		<key>content</key>
+		<string>information6</string>
+		<key>image</key>
+		<string>informationImage06.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>想让美白真的有效果 你还需要知道这些</string>
+		<key>content</key>
+		<string>information7</string>
+		<key>image</key>
+		<string>informationImage07.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>早起气色不佳？不妨用这些方法让肌肤会发光</string>
+		<key>content</key>
+		<string>information8</string>
+		<key>image</key>
+		<string>informationImage08.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>真的很想 一直不上“斑”！</string>
+		<key>content</key>
+		<string>information9</string>
+		<key>image</key>
+		<string>informationImage09.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>注射玻尿酸，走上微整形的不归路！</string>
+		<key>content</key>
+		<string>information10</string>
+		<key>image</key>
+		<string>informationImage10.png</string>
+	</dict>
+</array>
+</plist>

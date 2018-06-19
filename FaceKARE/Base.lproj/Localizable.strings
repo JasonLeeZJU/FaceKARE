@@ -1,0 +1,211 @@
+/*
+ Localizable.strings
+ FaceKARE
+ 
+ Created by Anan on 2017/4/25.
+ Copyright © 2017年 Anan. All rights reserved.
+ */
+
+/*
+ 整体 begin
+ */
+
+// tabbar
+"tabbarHome" = "Home";
+"tabbarInformation" = "About Beauty";
+"tabbarPictures" = "Show Time";
+"tabbarSetting" = "Settings";
+
+"disableConnectTip" = "Bluetooth connection timeout !";
+"disableConnectTip1" = "1. Switching on device";
+"disableConnectTip2" = "2. Move the APP close to the device";
+
+"chartGreenTip" = "Treatment in high efficience";
+"chartYellowTip" = "Treatment in probation";
+"chartRedTip" = "Invalid Treatment";
+
+/*
+ 整体 end
+ */
+
+/*
+ HOME 页面 begin
+ */
+
+//
+"beautyStateLabel" = "Status";
+"homeChartLineYX" = "Biocurrent／Progress(min)";
+"homeChartLineYX2" = "Biocurrent／Progress";
+"homeMinite" = "min";
+"homeChartLineY" = "Biocurrent";
+"homeChartLineX" = "Progress(min)";
+"HomeGainButton" = "Treatment";
+"HomeGainButton" = "Connect";  //暂定
+"reduceLabel" = "减弱";
+"increaseLabel" = "增强";
+"intensityLabel" = "Intensity";
+"dragLeftLabel" = "Collagen";
+
+"homeMessage1" = "仅在美容仪运行时有效";
+"homeMessage2" = "已达到最小值";
+"homeMessage3" = "已达到最大值";
+
+//"banner1" = "About company";
+//"banner2" = "Non-surgical cosmetoloty";
+//"banner3" = "About FaceKARE";
+//"banner4" = "FaceKARE in action";
+//"banner5" = "A miracle of fading spots away";
+//"banner6" = "Putty Eyelids and Wrinkle";
+"bannerB1" = "About company";
+"bannerB2" = "Non-surgical cosmetoloty";
+"bannerB3" = "Facial firming and texture";
+"bannerB4" = "Putty Eyelids and Wrinkle";
+
+"bannerFirst" = "Collagen";
+//"bannerFirstNavigationTitle" = "Collagen Protein";
+"bannerFirstNavigationTitle" = "Status"; // 暂定
+"bannerChartLineY" = "Synthetic quantity";
+"bannercollagenTopTip" = "Microcurrent has been shown to stimulate the creation of collagen and elastin";
+"bannerCollagenTip" = "Collagen synthesis per unit time: The curve value above 0 indicates the production of collagen, the higher the curve, the more collagen it produces.";
+"bannerCollagenTip" = "The Higher the value, the more the collagen generated in unitime";   //暂定
+
+"homePrompt" = "Prompt";
+"homePromptDetail1" = "Treatment completed!";
+"homePromptDetail2" = "Make sure the mask does not fall off !";
+"homePromptDetail3" = "Low battery ! ";
+"homeConfirm" = "Confirm";
+
+"honeConnectLabel1" = "Paired";
+"honeConnectLabel2" = "Unpaired";
+"honeModelLabel0" = "• • •";
+"honeModelLabel1" = "Eyelids";
+"honeModelLabel2" = "Blemish";
+"honeModelLabel3" = "Firming";
+
+"bannerFirstChangeIntensityLabel" = "Change intensity";  //暂定
+"bannerFirstChangeModelLabel" = "Change model";  //暂定
+
+// 连接页面
+"connectNavigationTitle" = "Connecting device";
+"HomeConnectButton" = "Connect";
+
+"connectPrompt" = "Prompt";
+"connectPromptDetail1" = "Pairing with the device in red blinking ?";
+"connectPromptDetail2" = "Device not found .";
+"connectPromptDetail3" = "No device found ！";
+"connectPromptDetail4" = "Unable to connect specified device .";
+"connectNext" = "Try again";
+"connectConfirm" = "OK";
+
+"connectConnectPrompt" = "Paired !";
+
+"connectGreenLabel" = "Eyelids";
+"connectYellowLabel" = "Blemish";
+"connectBlueLabel" = "Firming";
+
+"connectPromptDetail5" = "Close to the device please";
+"connectPromptDetail6" = "Do not select the same mode please";
+
+/*
+ HOME 页面 end
+ */
+
+/*
+ INFORMATION 页面 begin
+ */
+
+"informationViewNavigationTitle" = "About beauty";
+
+/*
+ INFORMATION 页面 end
+ */
+
+/*
+ PICTURES 页面 begin
+ */
+
+"picturesViewNavigationTitle" = "Show Time";
+"picturesEditorButton" = "Editor";
+"picturesCancelButton" = "Cancel";
+"takePicturesButton" = "Take Photos";
+"takePicturesSelect1" = "After eyelids";
+"takePicturesSelect2" = "After blemish";
+"takePicturesSelect3" = "After firming";
+"takePicturesCancel" = "Cancel";
+"takePicturesSection1" = "- Eyelids -";
+"takePicturesSection2" = "- Blemish -";
+"takePicturesSection3" = "- Firming -";
+"takePicturesModel1" = "Eyelids";
+"takePicturesModel2" = "Blemish";
+"takePicturesModel3" = "Firming";
+"takePicturesCompareButton" = "Compare";
+"takePicturesDeleteButton" = "Delete";
+
+/*
+ PICTURES 页面 end
+ */
+
+/*
+ SETTING 页面 begin
+ */
+
+//
+"settingViewNavigationTitle" = "Settings";
+
+//
+"VersionViewNavigationTitle" = "Version";
+"update" = "Update";
+"version" = "Version";
+"DeviceInformation" = "About Device";
+"DeviceId" = "Device ID";
+"firmware" = "Firmwave Ver.";
+
+"updatePrompt" = "Prompt";
+"updateTip" = "Update ot not?";
+"updateYes" = "Update";
+"updateNo" = "Cancel";
+
+"noNeedUpdateTip" = "Latest version ";
+"noNeedUpdateYes" = "confirm";
+
+//
+"FAQListViewNavigationTitle" = "FAQ";
+
+"FAQLabel11" = "LED indicator";
+"FAQLabel12" = "Yellow";
+"FAQLabel13" = "Blue";
+"FAQLabel14" = "Green";
+"FAQLabel21" = "Function";
+"FAQLabel22" = "Blemish, acne scar, and pigmentation";
+"FAQLabel23" = "Firming and texture tone";
+"FAQLabel24" = "Eyelids, wrinkle, crow’s feet etc.";
+"FAQLabel31" = "Treatment timeline";
+"FAQLabel32" = "45 min procedure for consecutive 28 days, then once a week.";
+"FAQLabel33" = "43 min procedure for consecutive 15 days, then once a week.";
+"FAQLabel34" = "42 min a procedure for consecutive 7 days, then once a week.";
+"FAQLabel41" = "Effectual-time";
+"FAQLabel42" = "Noticeable after 7 days. Remarkable in 20 days.";
+"FAQLabel43" = "Noticeable after 4 days. Remarkable in 12 days.";
+"FAQLabel44" = "Noticeable after 3 days. Remarkable in 7 days.";
+
+//
+"replaceViewNavigationTitle" = "Connect other device";
+"replaceTipLabel1" = "1. Switching on device .";
+"replaceTipLabel2" = "2. Move the APP close to the device .";
+"replaceButton" = "Connect";
+
+//
+"contactUsViewNavigationTitle" = "Contact US";
+"focusOnUsNavigationTitle" = "关注我们";
+"companyAddressNavigationTitle" = "公司地址";
+"companyAddress" = "公司地址：";
+"companyAddressDetail" = "浙江省杭州市西湖区三墩镇西湖科技园金蓬街368号同硕科技园";
+"isCopy" = "是否复制公司地址";
+"copyCancel" = "取消";
+"copyConfirm" = "确认";
+"contactTipLabel" = "如果您有任何问题或建议，请联系我们，期待您的回复。";
+"weChatTipLabel" = "长按图片保存二维码";
+
+/*
+ SETTING 页面 end
+ */
