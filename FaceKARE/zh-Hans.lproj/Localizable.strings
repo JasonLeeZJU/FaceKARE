@@ -51,14 +51,14 @@
 "homeMessage2" = "已达到最小值";
 "homeMessage3" = "已达到最大值";
 
-"banner1" = "公司介绍";
-"banner2" = "技术特点和比较";
-"banner3" = "产品介绍";
-"banner4" = "产品应用领域";
-"banner5" = "淡斑奇迹";
-"banner6" = "该死的眼袋";
+"banner1" = "";
+"banner2" = "";
+"banner3" = "";
+"banner4" = "";
+"banner5" = "";
+"banner6" = "";
 
-"bannerFirst" = "胶原蛋白";
+"bannerFirst" = "";
 //"bannerFirstNavigationTitle" = "胶原蛋白";
 "bannerFirstNavigationTitle" = "美容状态";  // 暂定
 "bannerChartLineY" = "胶原蛋白合成量";
