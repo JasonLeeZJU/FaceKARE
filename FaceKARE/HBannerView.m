@@ -45,7 +45,10 @@
         // 要给block赋值,不然点击图片没有反应,block是空的,不会执行block
         self.clickBlcok = clickCallBack;
         _imagesArray = imagesArray;
+        NSLog(@"image number %lu",_imagesArray.count);
         _textsArray = textsArray;
+        
+        
         [self creatUI];
         [self startTimer];
     }
@@ -57,6 +60,8 @@
 {
     // 初始化scrollview
     _scrollView = [[UIScrollView alloc] initWithFrame:CGRectMake(0, 0, self.frame.size.width, self.frame.size.height)];
+    NSLog(@"height %f",self.frame.size.height);
+    NSLog(@"width %f",self.frame.size.width);
     self.scrollView.contentSize = CGSizeMake(view_WIDTH * 3, view_HEIGHT);
     self.scrollView.showsHorizontalScrollIndicator = NO;
     self.scrollView.showsVerticalScrollIndicator = NO;
@@ -123,7 +128,8 @@
         [label setTextAlignment:NSTextAlignmentRight];
         label.font = [AppUIModel UIViewTitleFont];
         label.text = string;
-        [imageView addSubview:label];
+        //[imageView addSubview:label];
+        //banner 前方文字
     }
 }
 

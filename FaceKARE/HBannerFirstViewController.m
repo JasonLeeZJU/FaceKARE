@@ -85,7 +85,7 @@
     NSLog(@"status width - %f", rectStatus.size.width); // 宽度
     NSLog(@"status height - %f", rectStatus.size.height);  // 高度
     
-    // 设置 view
+    //设置 view
     self.bannerChartLineView = [[UIView alloc] initWithFrame:CGRectMake(0, -SCREEN_HEIGHT, SCREEN_WIDTH, SCREEN_HEIGHT + rectStatus.size.height + 44)];
     self.bannerChartLineView.backgroundColor = [AppUIModel UIViewMainColorI];
     self.bannerChartLineView.contentMode = UIViewContentModeScaleAspectFill;

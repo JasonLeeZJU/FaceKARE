@@ -39,7 +39,7 @@
     
     // bottomPicturesScrollView
     UIScrollView *bottomPicturesScrollView;
-    UIImageView * bottomImageView;
+    UIImageView *bottomImageView;
     CGFloat bottomImageViewWidth;
     CGFloat bottomImageViewHeight;
     

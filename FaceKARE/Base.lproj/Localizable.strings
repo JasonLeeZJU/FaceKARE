@@ -56,12 +56,12 @@
 //"banner4" = "FaceKARE in action";
 //"banner5" = "A miracle of fading spots away";
 //"banner6" = "Putty Eyelids and Wrinkle";
-"bannerB1" = "";
-"bannerB2" = "";
-"bannerB3" = "";
-"bannerB4" = "";
+"bannerB1" = "About company";
+"bannerB2" = "Non-surgical cosmetoloty";
+"bannerB3" = "Facial firming and texture";
+"bannerB4" = "Putty Eyelides and Wrinkle";
 
-"bannerFirst" = "";
+"bannerFirst" = "Collagen";
 //"bannerFirstNavigationTitle" = "Collagen Protein";
 "bannerFirstNavigationTitle" = "Status"; // 暂定
 "bannerChartLineY" = "Synthetic quantity";
