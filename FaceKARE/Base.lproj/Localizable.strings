@@ -41,14 +41,14 @@
 "homeChartLineX" = "Progress(min)";
 "HomeGainButton" = "Treatment";
 "HomeGainButton" = "Connect";  //暂定
-"reduceLabel" = "减弱";
-"increaseLabel" = "增强";
+"reduceLabel" = "Reduce";
+"increaseLabel" = "Increase";
 "intensityLabel" = "Intensity";
 "dragLeftLabel" = "Collagen";
 
-"homeMessage1" = "仅在美容仪运行时有效";
-"homeMessage2" = "已达到最小值";
-"homeMessage3" = "已达到最大值";
+"homeMessage1" = "Effective only when Device is online 仅在美容仪运行时有效";
+"homeMessage2" = "Minimum already";
+"homeMessage3" = "Maximum already";
 
 //"banner1" = "About company";
 //"banner2" = "Non-surgical cosmetoloty";
@@ -180,9 +180,9 @@
 "FAQLabel23" = "Firming and texture tone";
 "FAQLabel24" = "Eyelids, wrinkle, crow’s feet etc.";
 "FAQLabel31" = "Treatment timeline";
-"FAQLabel32" = "45 min procedure for consecutive 28 days, then once a week.";
-"FAQLabel33" = "43 min procedure for consecutive 15 days, then once a week.";
-"FAQLabel34" = "42 min a procedure for consecutive 7 days, then once a week.";
+"FAQLabel32" = "24 min procedure for consecutive 28 days, then once a week.";
+"FAQLabel33" = "29 min procedure for consecutive 15 days, then once a week.";
+"FAQLabel34" = "24 min a procedure for consecutive 7 days, then once a week.";
 "FAQLabel41" = "Effectual-time";
 "FAQLabel42" = "Noticeable after 7 days. Remarkable in 20 days.";
 "FAQLabel43" = "Noticeable after 4 days. Remarkable in 12 days.";
@@ -196,15 +196,15 @@
 
 //
 "contactUsViewNavigationTitle" = "Contact US";
-"focusOnUsNavigationTitle" = "关注我们";
-"companyAddressNavigationTitle" = "公司地址";
-"companyAddress" = "公司地址：";
-"companyAddressDetail" = "浙江省杭州市西湖区三墩镇西湖科技园金蓬街368号同硕科技园";
-"isCopy" = "是否复制公司地址";
-"copyCancel" = "取消";
-"copyConfirm" = "确认";
-"contactTipLabel" = "如果您有任何问题或建议，请联系我们，期待您的回复。";
-"weChatTipLabel" = "长按图片保存二维码";
+"focusOnUsNavigationTitle" = "Follow Us";
+"companyAddressNavigationTitle" = "Company Address";
+"companyAddress" = "Addr：";
+"companyAddressDetail" = "No.368 Jingpeng Street, Sandun County, Hangzhou P.R.China";
+"isCopy" = "Copy Company Address?";
+"copyCancel" = "Cancel";
+"copyConfirm" = "Confirm";
+"contactTipLabel" = "We are looking forward to hear any feedback from you!";
+"weChatTipLabel" = "Hold to save QR code.";
 
 /*
  SETTING 页面 end
