@@ -582,6 +582,7 @@
 			buildPhases = (
 				270B5A5F1EAF16A900FC0210 /* Sources */,
 				270B5A601EAF16A900FC0210 /* Frameworks */,
+				27D50E5C20F5C9A4008ACFAD /* UpdateAppVersion */,
 				270B5A611EAF16A900FC0210 /* Resources */,
 			);
 			buildRules = (
@@ -778,6 +779,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		27D50E5C20F5C9A4008ACFAD /* UpdateAppVersion */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = UpdateAppVersion;
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "versionNumber=$(/usr/libexec/PlistBuddy -c \"Print :CFBundleShortVersionString\" \"${PROJECT_DIR}/${INFOPLIST_FILE}\")\nsed -i bak -e \"/userLabel=\\\"AppVersion\\\"/s/text=\\\"[^\\\"]*\\\"/text=\\\"版本：$versionNumber\\\"/\" $PROJECT_DIR/FaceKARE/Base.lproj/LaunchScreen.storyboard";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		270B5A5F1EAF16A900FC0210 /* Sources */ = {
